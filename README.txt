@@ -1,36 +1,18 @@
-NAYAYIK ADVISORS LLP — UPDATED WEBSITE PACKAGE
+NAYAYIK ADVISORS LLP — WEBSITE PACKAGE
 
 Files:
-- index.html — responsive website
-- nayayik-advisors-logo.jpg — logo supplied by the user
-- README.txt — these instructions
+- index.html — responsive website with enquiry form
+- nayayik-advisors-logo.jpg — supplied logo
 
-Company details are included as supplied by the user. Please verify registration details before public launch.
+ENQUIRY FORM EMAIL SETUP (REQUIRED ONE-TIME STEP):
+The enquiry form uses FormSubmit (a third-party email form service) to deliver submitted enquiry details to contact.nayayik@gmail.com. On the first real submission, FormSubmit may send an activation/confirmation email to that address. Open that email and complete the activation step before relying on the form. Check Spam/Junk too. Test again after activation. Do not advertise that enquiries are being received until you verify a test email arrives.
 
-Website additions:
-- User-supplied logo
-- “Supported by Startup Bihar” wording (publish only if the support/association claim is accurate and authorized)
-- Office hours field awaiting the company's confirmed schedule
-- Join Us / collaboration enquiry link
-- Feedback section designed to accept genuine, permission-based client reviews
-
-REVIEWS AND PHOTOS:
-No fake client review or invented endorsement photo has been added. Add real review text and a client photo only after obtaining the person's informed permission and confirming the review is genuine. If you want a non-testimonial stock/illustrative photo instead, label it clearly as illustrative and do not imply it is a client.
-
-ENQUIRY FORM:
-The legal enquiry form prepares an email draft to contact.nayayik@gmail.com. It does not automatically store submissions or send email in the background.
-
-FREE HOSTING WITH GITHUB PAGES:
-1. Sign in/create an account at https://github.com/
-2. Create a new public repository, e.g. nayayik-advisors-website.
-3. Upload BOTH index.html and nayayik-advisors-logo.jpg to the repository root.
-4. Open Settings → Pages.
-5. Under Build and deployment choose “Deploy from a branch”.
-6. Choose branch “main” and folder “/(root)”, then Save.
-7. Wait for deployment. Copy the published URL shown by GitHub Pages.
-8. Test the website on mobile and desktop, including phone, WhatsApp, email, enquiry form and Join Us links.
+WHATSAPP:
+After the form email submission succeeds, the visitor's browser opens WhatsApp with a pre-filled enquiry message addressed to +91 91620 79238. The visitor must press Send in WhatsApp. A normal wa.me link cannot silently send a message or make a message originate automatically from the visitor's number. Fully automated WhatsApp messaging requires WhatsApp Business Platform/API and appropriate consent/setup.
 
 IMPORTANT:
-- Confirm the official working days/hours and replace the placeholder in index.html before publishing.
+- The form sends the submitted details to a third-party form processing service and the company email. Publish a clear privacy notice and only collect information needed for initial contact.
+- Avoid asking clients to enter sensitive identity numbers, passwords, bank details or confidential case records in the initial form.
+- Confirm official office hours before publishing.
 - Publish “Supported by Startup Bihar” only if accurate and authorized.
-- Review legal-services advertising, privacy/data-protection, and professional-conduct compliance before public launch.
+- Verify all registration/contact details and applicable professional-conduct requirements before public launch.
